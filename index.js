@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["GreenvilleHesitation","GreenvilleHesitation"];
+const statusMessages = ["Discord Helper","Made by jake_cars"];
 
 
 let currentIndex = 0;
